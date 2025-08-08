@@ -52,7 +52,7 @@ Um novo jogo só será possivel quando algum participante for sorteado.
 ---
 ## 🔗 Acesse o projeto publicado
 
-👉 [Clique aqui para ver o projeto no ar]()
+👉 [Clique aqui para ver o projeto no ar](https://gabriel-s-a.github.io/Amigo-Secreto/)
 
 ---
 
